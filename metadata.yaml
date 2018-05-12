@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '40757'
     url: http://www.gutenberg.org/2009/agents/40757
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40663#Two-on-the-TrailA-Story-of-Canada-Snows
 gutenberg_issued: '2012-09-04'
 gutenberg_type: Text
 identifiers:
